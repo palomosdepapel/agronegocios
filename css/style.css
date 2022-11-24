@@ -222,4 +222,5 @@
 
   footer ul li a{
     font-size: 12px;
+    color: var(--grey-color);
   }
